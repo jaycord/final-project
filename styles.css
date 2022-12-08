@@ -4,10 +4,14 @@
 li{
     font-size: 5px;
     display: inline-block;
-    float: right;
+    /* float: right; */
     padding: 2px;
 }
 nav{
     background-color: wheat;
     height: 20px;
+}
+.video{
+    height: 50px;
+    width: 50px;
 }
